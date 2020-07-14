@@ -1,0 +1,1 @@
+cmd_/home/aportekila/Desktop/Uf/mastermind.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-32-generic/scripts/module-common.lds --build-id  -o /home/aportekila/Desktop/Uf/mastermind.ko /home/aportekila/Desktop/Uf/mastermind.o /home/aportekila/Desktop/Uf/mastermind.mod.o
